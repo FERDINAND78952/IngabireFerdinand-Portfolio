@@ -85,7 +85,7 @@ Feel free to connect, collaborate, and learn alongside me! 🙌
 
 ## 🎓 Certifications  
 
-📜 Certified Cybersecurity Analyst – [View Certification](./certifications/cybersecurity.pdf)  
+📜 Certified Cybersecurity Analyst – [View Certification](./Junior_Cybersecurity_Analyst_Career_Path_Badge20240818-7-z8wt4d.pdf)  
 📜 AI for Engineers– [View Certification](./certifications/AI-for-engineers.pdf)  
 📜 Advanced Networking – [View Certification](./certifications/networking.pdf)  
 
